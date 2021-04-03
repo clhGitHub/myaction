@@ -1,0 +1,7 @@
+# Project exclude paths
+/flink/target/
+/kafka/target/
+/out/
+/sort/target/
+/spark/target/
+/target/
